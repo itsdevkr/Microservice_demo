@@ -1,0 +1,5 @@
+package com.tecnotab.limits.bean;
+
+public class LimitsConfiguration {
+
+}

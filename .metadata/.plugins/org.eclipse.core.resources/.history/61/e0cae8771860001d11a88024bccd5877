@@ -1,0 +1,5 @@
+package com.tecnotab.limits.controller;
+
+public class LimitsConfigurationController {
+
+}
